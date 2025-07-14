@@ -1,1 +1,1 @@
-# Landing-Page
+# As part of the Odin project, I am creating a Landing Page.
